@@ -1,4 +1,4 @@
-Year,Month,Day,Weekday,High,Low,Close,High_ch_pc_sdbf,Low_ch_pc_sdbf,Close_ch_pc_sdbf,High_ch_tot_sdbf,Low_Ch_tot_sdbf,Close_Ch_tot_sdbf,Streak,Bestmove
+Year,Month,Day,Weekday,High,Low,Close,High_ch_pc_sdbf,Low_ch_pc_sdbf,Close_ch_pc_sdbf,High_ch_tot_sdbf,Low_ch_tot_sdbf,Close_ch_tot_sdbf,Streak,Bestmove
 2021,10,15,4,2318.79,2298.75,2314.98,0.0089,0.0073,0.0079,20.69,16.74,18.21,5.00,2
 2021,10,14,3,2298.10,2282.01,2296.77,0.0074,0.0203,0.0086,17.12,46.34,19.82,4.00,2
 2021,10,13,2,2280.98,2235.67,2276.95,0.0125,0.0139,0.0114,28.58,31.05,25.94,3.00,2
